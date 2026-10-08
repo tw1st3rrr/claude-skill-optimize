@@ -28,6 +28,14 @@ Claude начинает ответ строкой «Оптимизированн
 
 Нужны [Node.js](https://nodejs.org) 18+ и установленный Claude Code.
 
+Одной командой:
+
+```bash
+npx github:tw1st3rrr/claude-skill-optimize
+```
+
+Или через клонирование:
+
 ```bash
 git clone https://github.com/tw1st3rrr/claude-skill-optimize.git
 cd claude-skill-optimize
