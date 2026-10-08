@@ -1,0 +1,13 @@
+{
+  "name": "claude-skill-optimize",
+  "version": "1.0.0",
+  "description": "Claude Code: type \"опт: <task>\" and a headless Sonnet rewrites it into a precise English prompt with your project context before Claude runs it.",
+  "license": "MIT",
+  "author": "Mikhail Romanovich",
+  "repository": { "type": "git", "url": "git+https://github.com/tw1st3rrr/claude-skill-optimize.git" },
+  "bin": { "claude-skill-optimize": "install.js" },
+  "files": ["install.js", "hooks", "skill", "README.md", "LICENSE"],
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=18" },
+  "keywords": ["claude-code", "claude", "skill", "hook", "prompt", "optimize"]
+}
